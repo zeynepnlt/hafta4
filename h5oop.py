@@ -1,5 +1,3 @@
-
-
 class hesap:
     def __init__(self,say1,say2):
         self.say1 = say1
